@@ -11,13 +11,11 @@ all the elements that work under the Password and Notes Manager.
 
 Language Used:	Java
 
-IDE:	VS Code
+IDE:	Intellij IDEA
 
 Java version (Recommended):	Java SE 18.0. 2.1
 Database:	None
 Type:	Desktop Application
-Recommended for:	Intermediates of Java
-Time to build:	2-3 hours
 
 Features
 
